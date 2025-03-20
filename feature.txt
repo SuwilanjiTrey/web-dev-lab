@@ -1,1 +1,3 @@
-what i learnt in web programming and technologies 
+what i learnt in web programming and technologies:
+- Git and github basics
+-Creating and managing files
